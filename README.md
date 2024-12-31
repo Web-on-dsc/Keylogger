@@ -1,6 +1,3 @@
-Voici une version professionnelle et attrayante pour le README de votre projet, avec des emojis et une mise en page adaptée pour GitHub : 
-
-```markdown
 # 🔑 Keylogger Python avec Webhooks 🚀
 
 Bienvenue dans **Keylogger**, un keylogger simple et efficace en Python qui utilise un système de **webhooks** pour transmettre les données enregistrées. Ce projet est destiné à des fins éducatives et pour approfondir vos connaissances en programmation Python. ⚠️ **N’utilisez pas cet outil à des fins illégales.**
